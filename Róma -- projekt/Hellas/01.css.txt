@@ -1,0 +1,12 @@
+body {
+  background-color: #df9726; /* same as #df9725 */
+}
+
+h1, h2 {
+  color: #FFFFFF; /* same as ##fffcfc */
+}
+
+p {
+  color: #000000; /* same as #000000 */
+   font-size:medium;
+}
